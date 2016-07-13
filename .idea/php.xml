@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <PhpUnitSettings />
-      <phpunit_by_interpreter interpreter_id="8991f1ab-f0a6-4498-b994-72ea2d86b2fb" load_method="PHPUNIT_PHAR" configuration_file_path="/media/sf_sapphirerock/phpunit-colors/phpunit.xml" custom_loader_path="" phpunit_phar_path="/usr/local/bin/phpunit.phar" use_configuration_file="true" />
-    </phpunit_settings>
-  </component>
-</project>
