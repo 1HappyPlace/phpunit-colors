@@ -1,9 +1,2 @@
-# Created by .ignore support plugin (hsz.mobi)
-.idea/copyright/
-.idea/deployment.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/phpunit-colors.iml
-.idea/workspace.xml
-
+/.idea/
 /vendor/
