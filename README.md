@@ -16,4 +16,4 @@
         // place the escaped string in the $message field to light up your output
         $this->assertSame("one","two",Display::caution("This assertion has intentionally failed"));
  
- 
+ <img src="http://clio.1happyplace.com/_images/PHPUnitColors-Display.png">
