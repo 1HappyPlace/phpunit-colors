@@ -1,0 +1,22 @@
+{
+    "name": "1happyplace/phpunit-colors",
+    "description": "Class that colors output for PHPUnit using ANSI escape coding",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "PHPUnitColors\\": "src/PHPUnitColors/"
+      }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Katie Ayres",
+            "email": "katie@1happyplace.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

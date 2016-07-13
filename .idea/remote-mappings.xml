@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="php@8991f1ab-f0a6-4498-b994-72ea2d86b2fb">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/.." remote-root="/media/sf_sapphirerock" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
