@@ -1,4 +1,5 @@
-**PHPUnitColors\Display** http://clio.1happyplace.com/utilities/phpunit-color-display.html
+#PHPUnitColors\Display#
+[clio.1happyplace.com/utilities/phpunit-color-display.html](http://clio.1happyplace.com/utilities/phpunit-color-display.html)
  
  The Display class outputs colored output that will work on virtually any terminal.
  It utilizes the escape coding that goes back to the days of the DEC VT-100.  It
