@@ -1,6 +1,5 @@
 <?php
 
-require "../../vendor/autoload.php";
 use PHPUnitColors\Display;
 
 class StringTest {
