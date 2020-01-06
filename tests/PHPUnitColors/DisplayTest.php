@@ -1,5 +1,6 @@
 <?php
 
+use PHPUnit\Framework\TestCase;
 use PHPUnitColors\Display;
 
 class StringTest {
@@ -8,17 +9,17 @@ class StringTest {
     }
 }
 
-class DisplayTest extends PHPUnit_Framework_TestCase
+class DisplayTest extends TestCase
 {
 
 
-    public function setUp()
+    public function setUp(): void
     {
 
 
     }
 
-    public function tearDown()
+    public function tearDown(): void
     {
 
     }
