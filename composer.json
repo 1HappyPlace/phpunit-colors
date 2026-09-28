@@ -4,9 +4,6 @@
     "keywords": ["PHPUnit","Colors","Output"],
     "homepage": "http://clio.1happyplace.com/utilities/phpunit-color-display.html",
     "type": "library",
-    "require-dev": {
-        "phpunit/phpunit": "^8.5"
-    },
     "autoload": {
       "psr-4": {
         "PHPUnitColors\\": "src/PHPUnitColors/"
